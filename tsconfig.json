@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "declaration": false,
+    "types": ["node"]
+  },
+  "ts-node": {
+    "compilerOptions": {
+      "esModuleInterop": true
+    }
+  }
+}
