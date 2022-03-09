@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-tshirt-sizes",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "An ESLint rule which enforces ordering of object keys based on T-shirt sizes.",
   "homepage": "https://github.com/Naoto-Ida/eslint-plugin-tshirt-sizes",
   "repository": {
@@ -19,7 +19,7 @@
   "main": "lib/index.js",
   "license": "MIT",
   "engines": {
-    "node": ">=10"
+    "node": ">=14"
   },
   "devDependencies": {
     "@types/eslint": "^8.4.1",
